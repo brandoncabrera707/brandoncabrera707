@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi I'm Brandon Cabrera 👋
 
+I am a transfer student at Mt. San Antonio College with goal of obtaining a bachelor's degree from a four-year university
+
+## 👀 What I'm up to
+- Building web applications with Next.js
+- Building projects in Python 
+- Learning Machine Learning theory
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/brandon-cabrera-we3)
 <!--
 **brandoncabrera707/brandoncabrera707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
