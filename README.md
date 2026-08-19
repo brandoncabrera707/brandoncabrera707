@@ -1,10 +1,11 @@
-## Hi I'm Brandon Cabrera 👋
+## Hi, I'm Brandon Cabrera 👋
 
-I am a transfer student at Mt. San Antonio College with goal of obtaining a bachelor's degree from a four-year university
+I am a student at UC Davis pursuing a Bachelor's Degree in Data Science with an interest in machine learning, statistics, actuarial sciences, and probability 
 
 ## 👀 What I'm up to
-- Building projects in Python 
-- Learning Machine Learning theory
+- Building projects in Python
+- Learning statistics and probability 
+- Learning machine learning theory and data science concepts
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/brandon-cabrera-we3)
